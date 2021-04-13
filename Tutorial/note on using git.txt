@@ -1,0 +1,8 @@
+*****)
+Kalau mau diupdate dengan tutorial terbaru bisa lakukan ini:
+1. Buka github desktop
+2. Pastikan sudah sign in dan di repository abduljalil68/python
+3. Press "Fetch origin"
+3. Press Ctrl+Shift+M
+4. Pilih "upstream/master" lalu press "Merge upstream/master into master"
+5. Pilih "Push origin"
